@@ -1,6 +1,5 @@
 //
 //  YoutubePlayer.swift
-//  CountryNaturalBeef
 //
 //  Created by Muhamad Rizwan on 31/10/2018.
 //  Copyright © 2018 Muhamad Rizwan. All rights reserved.
